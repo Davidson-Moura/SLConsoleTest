@@ -1,0 +1,78 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\imagi\\Documents\\Estagio\\Projetos\\repos\\SLAssginBatch\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5167386-DC21-4D43-B630-D36A178A43BA}|SLAssginBatch\\SLAssginBatch.csproj|c:\\users\\imagi\\documents\\estagio\\projetos\\repos\\slassginbatch\\slassginbatch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5167386-DC21-4D43-B630-D36A178A43BA}|SLAssginBatch\\SLAssginBatch.csproj|solutionrelative:slassginbatch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5167386-DC21-4D43-B630-D36A178A43BA}|SLAssginBatch\\SLAssginBatch.csproj|c:\\users\\imagi\\documents\\estagio\\projetos\\repos\\slassginbatch\\slassginbatch\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5167386-DC21-4D43-B630-D36A178A43BA}|SLAssginBatch\\SLAssginBatch.csproj|solutionrelative:slassginbatch\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5167386-DC21-4D43-B630-D36A178A43BA}|SLAssginBatch\\SLAssginBatch.csproj|c:\\users\\imagi\\documents\\estagio\\projetos\\repos\\slassginbatch\\slassginbatch\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5167386-DC21-4D43-B630-D36A178A43BA}|SLAssginBatch\\SLAssginBatch.csproj|solutionrelative:slassginbatch\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1346,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\imagi\\Documents\\Estagio\\Projetos\\repos\\SLAssginBatch\\SLAssginBatch\\Program.cs",
+              "RelativeDocumentMoniker": "SLAssginBatch\\Program.cs",
+              "ToolTip": "C:\\Users\\imagi\\Documents\\Estagio\\Projetos\\repos\\SLAssginBatch\\SLAssginBatch\\Program.cs",
+              "RelativeToolTip": "SLAssginBatch\\Program.cs",
+              "ViewState": "AQIAAH4AAAAAAAAAAAAAAJgAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T10:38:07.533Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Connection.cs",
+              "DocumentMoniker": "C:\\Users\\imagi\\Documents\\Estagio\\Projetos\\repos\\SLAssginBatch\\SLAssginBatch\\Connection.cs",
+              "RelativeDocumentMoniker": "SLAssginBatch\\Connection.cs",
+              "ToolTip": "C:\\Users\\imagi\\Documents\\Estagio\\Projetos\\repos\\SLAssginBatch\\SLAssginBatch\\Connection.cs",
+              "RelativeToolTip": "SLAssginBatch\\Connection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T10:41:26.384Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\imagi\\Documents\\Estagio\\Projetos\\repos\\SLAssginBatch\\SLAssginBatch\\OrderService.cs",
+              "RelativeDocumentMoniker": "SLAssginBatch\\OrderService.cs",
+              "ToolTip": "C:\\Users\\imagi\\Documents\\Estagio\\Projetos\\repos\\SLAssginBatch\\SLAssginBatch\\OrderService.cs",
+              "RelativeToolTip": "SLAssginBatch\\OrderService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T11:59:05.14Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
