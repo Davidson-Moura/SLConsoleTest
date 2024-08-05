@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+y9tC1cdkJM7t4Sw9I114GL4URrXrhSZwInKX4+qNj57eyKEOOALDkXIZbgrv8JkGJl/b1tNXWH430hxxHTxwA==",
+  "dgSpecHash": "MZAXHKdMos0mHn70vDaActsCvpaXEBBvdilKjjYMxLk3N5oaALMVK6wWZfLOLenvrVUy8kjv1MsmiXs0wr8+cA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\imagi\\Documents\\Estagio\\Projetos\\repos\\SLAssginBatch\\SLAssginBatch\\SLAssginBatch.csproj",
+  "projectFilePath": "C:\\Users\\imagi\\Documents\\Estagio\\Projetos\\repos\\SLConsoleTest\\SLAssginBatch\\SLAssginBatch\\SLAssginBatch.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\imagi\\.nuget\\packages\\b1slayer\\1.3.2\\b1slayer.1.3.2.nupkg.sha512",
     "C:\\Users\\imagi\\.nuget\\packages\\flurl\\3.0.6\\flurl.3.0.6.nupkg.sha512",

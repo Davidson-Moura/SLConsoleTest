@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\imagi\\Documents\\Estagio\\Projetos\\repos\\SLAssginBatch\\SLAssginBatch\\SLAssginBatch.csproj": {}
+    "C:\\Users\\imagi\\Documents\\Estagio\\Projetos\\repos\\SLConsoleTest\\SLAssginBatch\\SLAssginBatch\\SLAssginBatch.csproj": {}
   },
   "projects": {
-    "C:\\Users\\imagi\\Documents\\Estagio\\Projetos\\repos\\SLAssginBatch\\SLAssginBatch\\SLAssginBatch.csproj": {
+    "C:\\Users\\imagi\\Documents\\Estagio\\Projetos\\repos\\SLConsoleTest\\SLAssginBatch\\SLAssginBatch\\SLAssginBatch.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\imagi\\Documents\\Estagio\\Projetos\\repos\\SLAssginBatch\\SLAssginBatch\\SLAssginBatch.csproj",
+        "projectUniqueName": "C:\\Users\\imagi\\Documents\\Estagio\\Projetos\\repos\\SLConsoleTest\\SLAssginBatch\\SLAssginBatch\\SLAssginBatch.csproj",
         "projectName": "SLAssginBatch",
-        "projectPath": "C:\\Users\\imagi\\Documents\\Estagio\\Projetos\\repos\\SLAssginBatch\\SLAssginBatch\\SLAssginBatch.csproj",
+        "projectPath": "C:\\Users\\imagi\\Documents\\Estagio\\Projetos\\repos\\SLConsoleTest\\SLAssginBatch\\SLAssginBatch\\SLAssginBatch.csproj",
         "packagesPath": "C:\\Users\\imagi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\imagi\\Documents\\Estagio\\Projetos\\repos\\SLAssginBatch\\SLAssginBatch\\obj\\",
+        "outputPath": "C:\\Users\\imagi\\Documents\\Estagio\\Projetos\\repos\\SLConsoleTest\\SLAssginBatch\\SLAssginBatch\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\Offline Packages"

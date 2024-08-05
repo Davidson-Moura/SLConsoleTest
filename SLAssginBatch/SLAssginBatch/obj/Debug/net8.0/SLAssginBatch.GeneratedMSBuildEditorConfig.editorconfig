@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SLAssginBatch
-build_property.ProjectDir = C:\Users\imagi\Documents\Estagio\Projetos\repos\SLAssginBatch\SLAssginBatch\
+build_property.ProjectDir = C:\Users\imagi\Documents\Estagio\Projetos\repos\SLConsoleTest\SLAssginBatch\SLAssginBatch\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

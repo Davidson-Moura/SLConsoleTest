@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SLAssginBatch")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c6bd19dc86cfce49221e168a0338e093c14c2042")]
 [assembly: System.Reflection.AssemblyProductAttribute("SLAssginBatch")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SLAssginBatch")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

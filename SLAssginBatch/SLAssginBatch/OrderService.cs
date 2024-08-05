@@ -3,7 +3,8 @@ namespace SLAssginBatch
 {
     public class OrderService
     {
-        internal static string InsertOrder(string bpCode, string itemCode, decimal quantityStock, decimal quantity, string hash, int? bplId = null)
+        internal static string InsertOrder(string bpCode, string itemCode, decimal quantityStock, decimal quantity, string hash, int? bplId = null,
+            bool secondConnection = false)
         {
             string order = $@"
             {{
@@ -26,7 +27,7 @@ namespace SLAssginBatch
                 ]
             }}
             ";
-            return Connection.Post("Orders", order, false);
+            return Connection.Post("Orders", order, secondConnection,false);
         }
     }
 }
