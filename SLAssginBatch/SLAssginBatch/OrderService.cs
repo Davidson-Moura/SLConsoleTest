@@ -3,7 +3,9 @@ namespace SLAssginBatch
 {
     public class OrderService
     {
-        internal static string InsertOrder(string bpCode, string itemCode, decimal quantityStock, decimal quantity, string hash, int? bplId = null,
+        internal static string InsertOrder(string bpCode, string itemCode, decimal quantityStock, decimal quantity, string hash,
+            string warehouse,
+            int? bplId = null,
             bool secondConnection = false)
         {
             string order = $@"
@@ -16,6 +18,9 @@ namespace SLAssginBatch
                         ""ItemCode"": ""{itemCode}"",
                         ""Quantity"": {quantity.ToString("N2", Connection.Culture)},
                         ""UnitPrice"": ""1"",
+                        ""Usage"": 29,
+                        ""TaxCode"":""6913-002"",
+                        {(string.IsNullOrEmpty(warehouse) ? "" : @$"""WarehouseCode"": ""{warehouse}"",")}
                         ""BatchNumbers"": [
                             {{
                               ""BatchNumber"": ""{hash}"",
@@ -29,5 +34,14 @@ namespace SLAssginBatch
             ";
             return Connection.Post("Orders", order, secondConnection,false);
         }
+    }
+    public class Order
+    {
+        public int DocEntry { get; set; }
+        public List<OrderLine> DocumentLines { get; set; }
+    }
+    public class OrderLine
+    {
+        public int LineNum { get; set; }
     }
 }
